@@ -1,5 +1,4 @@
 
-git push origin main
 
 # 🎸 Guitar Tuner Project
 
