@@ -1,5 +1,4 @@
 
-git commit -m "Add project plan for guitar tuner"
 git push origin main
 
 # 🎸 Guitar Tuner Project
